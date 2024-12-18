@@ -1,7 +1,7 @@
 # Kropki-Sudoku-Solver
 Recursive backtracking solver for Kropki sudoku & standard sudoku puzzles, implementing forward-checking
 
-A detailed explanation of Kropki sudoku can be found here: https://www.puzzlemix.com/rules-kropki-sudoku.php
+A detailed explanation of Kropki sudoku can be found here: https://www.puzzlemix.com/rules-kropki-sudoku.php. 
 To run the Kropki sudoku solver, simply use the following command line prompt:
 
 	python3 kropki_solver.py [inputfile] [outputfile]
